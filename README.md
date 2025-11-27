@@ -27,7 +27,7 @@ The GUI visualizes both time-domain and frequency-domain signals, including a st
 
 - **Clean, interactive MATLAB UI**
 
-- ## Applications
+ ## Applications
 
 - **Hands-free communication systems**  
   Removes echo in speakerphone mode for clearer voice transmission.
