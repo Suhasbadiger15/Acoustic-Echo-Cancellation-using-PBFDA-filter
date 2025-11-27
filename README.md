@@ -10,14 +10,14 @@ The GUI visualizes both time-domain and frequency-domain signals, including a st
 - Load any `.wav` or `.mp3` audio file
 
 - Visualize:
-  - ✔ **Original signal (time domain)**
-  - ✔ **Original spectrum (frequency domain – stick spectrum)**
-  - ✔ **Echo-cancelled signal (time domain)**
-  - ✔ **Processed spectrum (frequency domain – stick spectrum)**
+  -  **Original signal (time domain)**
+  -  **Original spectrum (frequency domain – stick spectrum)**
+  -  **Echo-cancelled signal (time domain)**
+  -  **Processed spectrum (frequency domain – stick spectrum)**
 
 - Playback:
-  - ✔ **Play original audio**
-  - ✔ **Play echo-cancelled output**
+  -  **Play original audio**
+  - **Play echo-cancelled output**
 
 - Adaptive echo cancellation using:
   - **Frequency-domain filtering**
